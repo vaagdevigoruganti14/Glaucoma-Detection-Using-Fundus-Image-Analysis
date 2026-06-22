@@ -1,12 +1,12 @@
-##Glaucoma Detection Using Fundus Image Analysis 👁️
+## Glaucoma Detection Using Fundus Image Analysis 👁️
 
 A Deep Learning-based application that detects glaucoma from retinal fundus images using VGG16 Transfer Learning and provides instant prediction results through a user-friendly web interface.
 
-##Overview
+## Overview
 
 Glaucoma is one of the leading causes of blindness worldwide. Early diagnosis is essential to prevent vision loss. This project uses Deep Learning techniques to analyze retinal fundus images and automatically classify them as glaucoma or normal, helping support early screening and diagnosis.
 
-##Features
+## Features
 -Automated glaucoma detection from fundus images
 -Deep Learning-based image classification
 -Image preprocessing and normalization
@@ -15,7 +15,7 @@ Glaucoma is one of the leading causes of blindness worldwide. Early diagnosis is
 -Fundus image upload and analysis
 -AI-assisted healthcare screening
 
-#Technologies Used
+## Technologies Used
 -Python
 -TensorFlow
 -Keras
@@ -27,7 +27,7 @@ Glaucoma is one of the leading causes of blindness worldwide. Early diagnosis is
 -CSS
 -Bootstrap
 
-#Dataset Features
+## Dataset Features
 
 The model is trained using retinal fundus images containing:
 
@@ -37,7 +37,7 @@ The model is trained using retinal fundus images containing:
 -Retinal Blood Vessel Patterns
 -Fundus Image Features
 
-#Deep Learning Workflow
+## Deep Learning Workflow
 
 -Data Collection
 -Image Preprocessing
@@ -48,7 +48,7 @@ The model is trained using retinal fundus images containing:
 -Prediction Generation
 -Web Application Deployment
 
-#Model Architecture
+## Model Architecture
 
 -VGG16 Pre-trained CNN Model
 -Transfer Learning
@@ -57,14 +57,14 @@ The model is trained using retinal fundus images containing:
 -Dropout Regularization
 -Sigmoid Activation Function
 
-#Results
+## Results
 
 Accurate glaucoma classification from retinal images
 Automated prediction of glaucoma presence
 Faster screening compared to manual examination
 Efficient image-based diagnosis support
 
-#Learning Outcomes
+## Learning Outcomes
 
 -Medical Image Processing
 -Deep Learning Fundamentals
@@ -74,7 +74,7 @@ Efficient image-based diagnosis support
 -Model Deployment
 -Healthcare AI Applications
 
-#Future Enhancements
+## Future Enhancements
 
 -Glaucoma Severity Classification
 -Mobile Application Development
@@ -83,6 +83,6 @@ Efficient image-based diagnosis support
 -Real-time Hospital Screening System
 -Multi-eye Disease Detection
 
-#Project Impact
+## Project Impact
 
 This project demonstrates the practical application of Artificial Intelligence and Deep Learning in healthcare by assisting in the early detection of glaucoma, reducing manual screening efforts, and supporting ophthalmologists in making faster diagnostic decisions.
